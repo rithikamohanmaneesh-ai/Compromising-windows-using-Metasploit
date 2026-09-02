@@ -98,9 +98,7 @@ On kali/parrot give the command exploit
 To see a list of processes, at the meterpreter > prompt, execute this command:
 ps  ⇒ can see the fun.exe process running with pid 1156
 ## OUTPUT:
-<img width="932" height="477" alt="image" src="https://github.com/user-attachments/assets/7f3baa69-2b48-4477-af6d-951d93bde575" />
-
-<img width="905" height="44" alt="image" src="https://github.com/user-attachments/assets/c6621951-be73-4d4f-8b4a-b8b6b400a001" />
+<img width="1721" height="914" alt="image" src="https://github.com/user-attachments/assets/63f13362-6d34-4a44-bcaf-a68b274c9d9a" />
 
 
 The Metasploit shell is running inside the "fun.exe" process. If the user closes that process, or logs off, the connection will be lost.
